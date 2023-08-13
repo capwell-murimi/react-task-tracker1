@@ -45,3 +45,4 @@ This project is licensed under the MIT License. You can find more details in the
 Acknowledgments
 This project was inspired by the React Crash Course by Traversy Media.
 
+
